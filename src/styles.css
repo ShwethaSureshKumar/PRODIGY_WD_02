@@ -27,7 +27,7 @@ body {
 
 
 #lap-times-container {
-    display: none; /* Initially set to none */
+    display: none; 
     margin-top: 20px;
     width: 50%;
     justify-content: center;
@@ -44,8 +44,8 @@ body {
     display: flex;
     margin: 5px 0;
     padding: 8px;
-    flex-direction: column; /* Display lap times in a column */
-    align-items: center; /* Center lap times */
+    flex-direction: column; 
+    align-items: center; 
 }
 
 .even-color {
